@@ -1,5 +1,5 @@
 CREATE DATABASE cwts;
-
+try natin to
 USE cwts;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
